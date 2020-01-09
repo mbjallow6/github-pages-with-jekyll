@@ -1,3 +1,4 @@
-# Welcome to my blog
+# This is my first github page
 
-I'm glad you are here. I plan to talk about ...
+I am learning to create webpages for my project on github.
+This is getting more interesting.
